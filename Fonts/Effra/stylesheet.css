@@ -1,0 +1,162 @@
+@font-face {
+    font-family: 'Effra Trial';
+    src: url('EffraTrial-BoldItalic.woff2') format('woff2'),
+        url('EffraTrial-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Effra Trial';
+    src: url('EffraTrial-Black.woff2') format('woff2'),
+        url('EffraTrial-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Effra Trial';
+    src: url('EffraTrial-Bold.woff2') format('woff2'),
+        url('EffraTrial-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Effra Trial';
+    src: url('EffraTrial-BlackItalic.woff2') format('woff2'),
+        url('EffraTrial-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Effra Trial Hairline';
+    src: url('EffraTrial-HairlineItalic.woff2') format('woff2'),
+        url('EffraTrial-HairlineItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Effra Trial';
+    src: url('EffraTrial-Italic.woff2') format('woff2'),
+        url('EffraTrial-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Effra Trial Hairline';
+    src: url('EffraTrial-Hairline.woff2') format('woff2'),
+        url('EffraTrial-Hairline.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Effra Trial';
+    src: url('EffraTrial-LightItalic.woff2') format('woff2'),
+        url('EffraTrial-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Effra Trial';
+    src: url('EffraTrial-Light.woff2') format('woff2'),
+        url('EffraTrial-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Effra Trial';
+    src: url('EffraTrial-MediumItalic.woff2') format('woff2'),
+        url('EffraTrial-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Effra Trial';
+    src: url('EffraTrial-Regular.woff2') format('woff2'),
+        url('EffraTrial-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Effra Trial';
+    src: url('EffraTrial-Medium.woff2') format('woff2'),
+        url('EffraTrial-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Effra Trial';
+    src: url('EffraTrial-SemiBoldItalic.woff2') format('woff2'),
+        url('EffraTrial-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Effra Trial';
+    src: url('EffraTrial-Thin.woff2') format('woff2'),
+        url('EffraTrial-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Effra Trial';
+    src: url('EffraTrial-SemiBold.woff2') format('woff2'),
+        url('EffraTrial-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Effra Trial XBold';
+    src: url('EffraTrial-XBold.woff2') format('woff2'),
+        url('EffraTrial-XBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Effra Trial';
+    src: url('EffraTrial-ThinItalic.woff2') format('woff2'),
+        url('EffraTrial-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Effra Trial XBold';
+    src: url('EffraTrial-XBoldItalic.woff2') format('woff2'),
+        url('EffraTrial-XBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+

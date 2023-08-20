@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'GoodDogNewW00';
+    src: url('GoodDogNewW00-Regular.woff2') format('woff2'),
+        url('GoodDogNewW00-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
