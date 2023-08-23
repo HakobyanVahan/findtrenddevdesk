@@ -24,6 +24,7 @@
 .icons-platform-block{
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
 }
@@ -297,4 +298,137 @@
 }
 .footer{
   padding: 25px 0px ;
+}
+
+@media only screen and (max-width: 1280px){
+  .container{
+    width: 1100px;
+  }
+  .block-2-best-deal-min-block {
+    margin-top: 15px;
+  }
+  .icons-platform {
+    margin-right: 14px;
+  }
+}
+@media screen and (max-width: 1180px){
+  .container{
+    width: 1000px;
+  }
+  .title-platform {
+    font-size: 59px;
+    padding: 140px 0px 71px;
+  }
+}
+@media  screen and (max-width: 1080px){
+  .container{
+    width: 900px;
+  }
+}
+@media  screen and (max-width: 980px){
+  .container{
+    width: 800px;
+  }
+  .img-platform{
+    width: 600px;
+  }
+
+  .footer-flex {
+    flex-direction: column;
+  }
+  .nav-block{
+    margin-top: 20px;
+  }
+  .block-2-best-deal-min-block {
+    margin-left: 0px;
+}
+}
+@media  screen and (max-width: 800px){
+  .container{
+    width: 600px;
+  }
+  
+  .title-Join-1 {
+    font-size: 60px;
+  }
+  .title-Join-2 {
+    font-size: 60px;
+  }
+}
+@media  screen and (max-width: 680px){
+  .container{
+    width: 400px;
+  }
+  .title-platform {
+    font-size: 43px;
+    padding: 137px 0px 30px;
+  }
+  .img-platform{
+    width: 390px;
+  }
+  .title-best-deal {
+    font-size: 47px;
+    margin-bottom: 30px;
+  }
+  .title-Join-1 {
+    font-size: 44px;
+  }
+   .title-Join-2 {
+    font-size: 41px;
+  }
+  .nav-block{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  .nav-block > a {
+    margin-top: 30px;
+    margin-left: 0px;
+  }
+}
+@media  screen and (max-width: 430px){
+  .container{
+    width: 320px;
+  }
+  .title-platform {
+    font-size: 35px;
+    padding: 40px 0px 30px;
+  }
+  .img-platform {
+    width: 310px;
+  }
+  .button {
+    font-size: 17px;
+    padding: 12px 14px;
+  }
+  .block-button-View-More {
+    margin: 30px 0px 65px;
+  }
+  .block-text-save {
+    display: none;
+  }
+  .text-monthly {
+    margin-left: 0px;
+  }
+  .title-best-deal {
+    font-size: 32px;
+    margin-bottom: 23px;
+  }
+  .title-Join-1 {
+    font-size: 36px;
+  }
+  .title-Join-2 {
+  font-size: 33px;
+  } 
+  .section-join {
+      padding: 50px 0px 60px;
+  }
+  .block-button-join {
+    margin: 33px 0px 0px;
+  }
+ .block-2-best-deal-min-block {
+    width: 315px;
+    padding: 12px 18px;
+  }
 }
